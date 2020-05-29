@@ -1,0 +1,291 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Lucinda Grande;
+}
+.container{
+    width: 500%;
+    height: 300%;
+    background: #F8F8FF;  
+}
+.menu ul{
+    display: inline-flex;
+    margin:50px;
+ }
+.menu ul li{
+    list-style:none;
+    margin:0 20px;
+    color: #b2b1b1;
+    cursor: pointer;
+ }
+.logo img{
+    width:105px;
+    margin-top: -7px;
+    margin-right: 68px;
+    margin-top: -30px;
+}
+.active{
+    color: #191970 !important;
+}
+.signup-btn{
+    top: 40px;
+    right: 80px;
+    position: absolute;
+    text-decoration: none;
+    color:#fff; 
+    border: 2px solid transparent;
+    border-radius:20px;
+    background-image: linear-gradient(#42455a,#42455a),radial-gradient(circle at top left,#fd00da,#19d7f8);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+}
+.signup-btn span{
+    display:  block;
+    padding: 8px 22px;
+} 
+.banner{
+    width: 80%
+    height: 70%;
+    top: 45%;
+    left: 130px;
+    position: absolute;
+    color: #fff;
+}
+.app-text{
+    width: 50%;
+    float left;
+    
+}
+.app-text h1{
+    font-size: 43px;
+    width: 700px;
+    position: relative;
+    margin-left: 40px;
+    color: #fff;
+}
+
+.app-picture{
+    width : 95%;
+    height: 700px;
+    
+}
+.app-picture img{
+    width: 95%;
+    height:600px;
+    margin-left:-130px;
+    margin-top: -220px;
+    margin-right: 1700px;
+    
+} 
+.banneri{
+    width: 80%
+    height: 70%;
+    top: 60%;
+    left: 130px;
+    position: absolute;
+    color: #fff;
+}
+.app-texti{
+    width: 50%;
+    float left;
+    
+}
+.app-texti h1{
+    font-size: 55px;
+    width: 640px;
+    position: relative;
+    margin-left: -100px;
+    color: #191970;
+}
+.app-pictur{
+    width : 95%;
+    height: 400px;
+    
+}
+.app-pictur img{
+    width: 30%;
+    height:210px;
+    margin-left:-130px;
+    margin-top: 90px;
+    margin-right: 1700px;
+    
+} 
+.app-texty{
+    width: 50%;
+    float left;
+    
+}
+.app-texty h1{
+    font-size: 23px;
+    width: 200px;
+    position: relative;
+    margin-left:-110px;
+    margin-top: -50px;
+    color: #191970;
+}
+.app-texty h2{
+    font-size: 23px;
+    width: 100px;
+    position: relative;
+    margin-left: -110px;
+    margin-top: -5px;
+    color: #191970;
+}
+.app-pictury{
+    width : 95%;
+    height: 400px;
+    
+}
+.app-pictury img{
+    width: 30%;
+    height:210px;
+    margin-left:260px;
+    margin-top: -360px;
+    margin-right: 1700px;
+    
+} 
+.app-texto h1{
+    font-size: 23px;
+    width: 200px;
+    position: relative;
+    margin-left:310px;
+    margin-top: -530px;
+    color: #191970;
+}
+.app-texto h2{
+    font-size: 23px;
+    width: 100px;
+    position: relative;
+    margin-left: 310px;
+    margin-top: -5px;
+    color: #191970;
+}
+.app-picturi{
+    width : 95%;
+    height: 400px;
+    
+}
+.app-picturi img{
+    width: 30%;
+    height:210px;
+    margin-left:670px;
+    margin-top: -350px;
+    margin-right: 1700px;
+    
+} 
+.app-textp h1{
+    font-size: 23px;
+    width: 200px;
+    position: relative;
+    margin-left:710px;
+    margin-top: -130px;
+    color: #191970;
+}
+.app-textp h2{
+    font-size: 23px;
+    width: 100px;
+    position: relative;
+    margin-left: 710px;
+    margin-top: -05px;
+    color: #191970;
+}
+.app-picturq{
+    width : 95%;
+    height: 400px;
+    
+}
+.app-picturq img{
+    width: 30%;
+    height:210px;
+    margin-left:-130px;
+    margin-top: -250px;
+    margin-right: 1700px;
+    
+} 
+.app-textq{
+    width: 50%;
+    float left;
+    
+}
+.app-textq h1{
+    font-size: 23px;
+    width: 200px;
+    position: relative;
+    margin-left:-110px;
+    margin-top: -35px;
+    color: #191970;
+}
+.app-textq h2{
+    font-size: 23px;
+    width: 100px;
+    position: relative;
+    margin-left: -110px;
+    margin-top: -5px;
+    color: #191970;
+}
+.app-picturw{
+    width : 95%;
+    height: 400px;
+    
+}
+.app-picturw img{
+    width: 30%;
+    height:210px;
+    margin-left:260px;
+    margin-top: -650px;
+    margin-right: 1700px;
+    
+} 
+.app-textw{
+    width: 50%;
+    float left;
+}
+.app-textw h1{
+    font-size: 23px;
+    width: 200px;
+    position: relative;
+    margin-left:310px;
+    margin-top: -430px;
+    color: #191970;
+}
+.app-textw h2{
+    font-size: 23px;
+    width: 100px;
+    position: relative;
+    margin-left: 310px;
+    margin-top: -5px;
+    color: #191970;
+}
+.app-picturr{
+    width : 95%;
+    height: 400px;
+    
+}
+.app-picturr img{
+    width: 30%;
+    height:210px;
+    margin-left:670px;
+    margin-top: -1050px;
+    margin-right: 1700px;
+    
+} 
+.app-textr{
+    width: 50%;
+    float left;
+}
+.app-textr h1{
+    font-size: 23px;
+    width: 200px;
+    position: relative;
+    margin-left:710px;
+    margin-top: -830px;
+    color: #191970;
+}
+.app-textr h2{
+    font-size: 23px;
+    width: 100px;
+    position: relative;
+    margin-left: 710px;
+    margin-top: -5px;
+    color: #191970;
+}
